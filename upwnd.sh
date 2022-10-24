@@ -2,6 +2,4 @@
 
 #bruh
 
-eject
-sleep 2
-reboot
+echo "hello"
