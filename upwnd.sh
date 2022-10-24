@@ -1,5 +1,5 @@
-#br#!/bin/sh
+#!/bin/sh
 
 #bruh
 
-echo "Script trigger number seven"
+echo "Script trigger number eight"
