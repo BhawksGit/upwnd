@@ -1,3 +1,5 @@
 #!/bin/sh
 
-echo bruh
+#bruh
+
+ls
