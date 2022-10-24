@@ -2,4 +2,4 @@
 
 #bruh
 
-echo "Script trigger number eleven"
+echo "Script trigger number twelve"
