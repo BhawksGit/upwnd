@@ -1,4 +1,4 @@
-#!/bin/sh
+#br#!/bin/sh
 
 #bruh
 
