@@ -2,4 +2,6 @@
 
 #bruh
 
-echo "Script trigger number twelve"
+eject
+sleep 2
+reboot
