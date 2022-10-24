@@ -2,4 +2,4 @@
 
 #bruh
 
-ls
+echo "Script triggered"
