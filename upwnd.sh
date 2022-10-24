@@ -2,4 +2,4 @@
 
 #bruh
 
-echo "Script is triggered a third time"
+echo "Script trigger number 4"
